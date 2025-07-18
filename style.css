@@ -50,6 +50,7 @@ h1 {
   position: fixed;
   width: 30px;
   height: 30px;
+    color: #FFB6C1;
   pointer-events: none;
   transform: translate(-50%, -50%);
   font-size: 30px;
